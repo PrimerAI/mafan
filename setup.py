@@ -40,9 +40,9 @@ setup(
         'test': TestCommand,
     },
     install_requires=[
-        "jieba == 0.37",
+        "jieba == 0.39",
         "argparse == 1.1",
-        "chardet == 2.1.1",
+        "chardet == 3.0.4",
         "future",
     ],
 )
